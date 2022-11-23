@@ -1053,6 +1053,7 @@ footer {
   }
   nav .navbar .nav-links {
     max-width: 100%;
+    box-shadow: none;
   }
   .header {
     height: 320px;
